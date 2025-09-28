@@ -1,5 +1,3 @@
-# revision
-# date: 16/09/2024
 # operators
 
 # Arithmetic Operators
